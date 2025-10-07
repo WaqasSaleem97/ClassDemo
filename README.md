@@ -1,2 +1,2 @@
-# ClassDemo
-Class Demo
+# Demo
+Demo
